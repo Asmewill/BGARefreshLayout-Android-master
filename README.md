@@ -37,6 +37,7 @@
 * 慕课网下拉刷新风格（可设置其中的 logo 和颜色成自己公司的风格，可设置整个刷新头部的背景）
 * 美团下拉刷新风格（可设置其中的图片和动画成自己公司的风格，可设置整个刷新头部的背景）
 * 类似 qq 好友列表黏性下拉刷新风格（三阶贝塞尔曲线没怎么调好，刚开始下拉时效果不太好，可设置整个刷新头部的背景）
+* 雅堂金融下拉刷新和上啦加载风格
 
 ### 一种上拉加载更多效果
 
@@ -57,6 +58,7 @@
 ![bga_refreshlayout4](https://cloud.githubusercontent.com/assets/8949716/17475815/6fb4a0c0-5d8f-11e6-94c9-5eaed30c5060.gif)
 ![bga_refreshlayout5](https://cloud.githubusercontent.com/assets/8949716/17475816/6fbb501e-5d8f-11e6-9dc5-fcb5b497247e.gif)
 ![bga_refreshlayout6](https://cloud.githubusercontent.com/assets/8949716/17475817/6fe51674-5d8f-11e6-994b-b8248f164181.gif)
+
 
 ### 基本使用
 
