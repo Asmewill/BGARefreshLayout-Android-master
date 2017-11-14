@@ -58,7 +58,7 @@
 ![bga_refreshlayout4](https://cloud.githubusercontent.com/assets/8949716/17475815/6fb4a0c0-5d8f-11e6-94c9-5eaed30c5060.gif)
 ![bga_refreshlayout5](https://cloud.githubusercontent.com/assets/8949716/17475816/6fbb501e-5d8f-11e6-9dc5-fcb5b497247e.gif)
 ![bga_refreshlayout6](https://cloud.githubusercontent.com/assets/8949716/17475817/6fe51674-5d8f-11e6-994b-b8248f164181.gif)
-
+![图片.png](http://upload-images.jianshu.io/upload_images/5685477-bd617e27e91fd91c.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 ### 基本使用
 
