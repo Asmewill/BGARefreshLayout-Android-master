@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/head_view"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="#f2f2f5" >
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:paddingBottom="15dp"
+        android:paddingTop="15dp" >
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true" >
+
+
+		    <ImageView
+		        android:id="@+id/img_right"
+		        android:layout_width="23dip"
+		        android:layout_height="23dip"
+		        android:layout_alignRight="@+id/progressBar1"
+		        android:layout_centerVertical="true"
+		        android:layout_marginRight="3dp"
+		        android:background="@mipmap/loading_1_03" />
+
+		    <ProgressBar
+		        android:id="@+id/progressBar1"
+		        style="@style/MyDialogStyle"
+		        android:layout_width="30dip"
+		        android:layout_height="30dip"
+		        android:layout_alignParentRight="true"
+		        android:layout_centerVertical="true"
+		        android:layout_marginRight="25dp"
+		        android:indeterminateDrawable="@drawable/progress_large_white"
+		        android:indeterminateDuration="800" />
+
+		    <TextView
+		        android:id="@+id/tipTextView"
+		        android:layout_width="wrap_content"
+		        android:layout_height="wrap_content"
+		        android:layout_alignParentLeft="true"
+		        android:layout_centerVertical="true"
+		        android:layout_marginLeft="25dp"
+		        android:text="拼命加载中"
+		        android:textSize="14sp"
+		        android:textColor="@color/Word_item_a6" />
+
+        </RelativeLayout>
+    </RelativeLayout>
+
+</LinearLayout>

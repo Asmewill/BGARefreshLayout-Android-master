@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimaryDark">#f57257</color>
+    <color name="colorPrimary">#f46444</color>
+    <color name="navigationBarColor">#f46444</color>
+
+    <color name="colorPrimaryDarkTrans">#CCf57257</color>
+
+    <color name="custom_imoocstyle">#eb4f38</color>
+    <color name="imoocstyle">#CA0612</color>
+
+    <color name="test_spacing1">#9674FC</color>
+    <color name="test_spacing2">#179641</color>
+    <color name="test_spacing3">#B2DB4D</color>
+    <color name="test_spacing4">#50E746</color>
+
+    <color name="srl_blue_bright">#ff00ddff</color>
+    <color name="srl_green_light">#ff99cc00</color>
+    <color name="srl_orange_light">#ffffbb33</color>
+    <color name="srl_red_light">#ffff4444</color>
+
+
+    <color name="C5c8ae6">#5c8ae6</color>
+    <color name="C666666">#666666</color>
+    <color name="C1a1a1a">#1a1a1a</color>
+    <color name="Cf2f2f5">#f2f2f5</color>
+    <color name="C787878">#787878</color>
+    <color name="Cffffff">#ffffff</color>
+    <color name="Cfd5356">#fd5356</color>
+    <color name="Cbfbfbf">#bfbfbf</color>
+    <color name="C008cd6">#008cd6</color>
+    <color name="C008bd9">#008bd9</color>
+    <color name="C1e1e1e">#1e1e1e</color>
+    <color name="Cfd5454">#fd5454</color>
+    <color name="C6f6f6f">#6f6f6f</color>
+    <color name="C807f7f">#807f7f</color>
+    <color name="Cdedede">#dedede</color>
+    <color name="Caaaaaa">#aaaaaa</color>
+    <color name="Cbcbcbc">#bcbcbc</color>
+    <color name="Cb3b3b3">#b3b3b3</color>
+    <color name="Ce8e8e8">#e8e8e8</color>
+    <color name="Cf4f4f5">#f4f4f5</color>
+    <color name="Cff0000">#ff0000</color>
+    <color name="C7ae283">#7ae283</color>
+    <color name="Ca1a1a1">#a1a1a1</color>
+    <color name="CFF6600">#ff6600</color>
+    <color name="C010101">#010101</color>
+    <color name="Ce5e5e5">#e5e5e5</color>
+    <color name="Ce6e6e6">#e6e6e6</color>
+    <color name="Cf7f7f7">#f7f7f7</color>
+    <color name="ff801a">#ff801a</color>
+    <color name="Ca7a7a7">#a7a7a7</color>
+    <color name="C77d201">#77d201</color>
+    <color name="Cc2dbf2">#c2dbf2</color>
+    <color name="Ca6d7f2">#a6d7f2</color>
+    <color name="C00000000">#e0000000</color>
+    <color name="C626262">#626262</color>
+    <color name="Cc9ccd1">#c9ccd1</color>
+    <color name="C333333">#333333</color>
+    <color name="C999999">#999999</color>
+    <color name="C6d9deb">#6d9deb</color>
+    <color name="Cd6d6d6">#d6d6d6</color>
+    <color name="C898989">#898989</color>
+    <color name="C457ae6">#457ae6</color>
+    <color name="C508cee">#508cee</color>
+    <color name="C88adf2">#88adf2</color>
+    <color name="CFFFEE5">#fffee5</color>
+    <color name="CF77E79">#f77e79</color>
+    <color name="Cf8d856">#f8d856</color>
+    <color name="Word_item_a6">#a6a6a6</color>
+</resources>

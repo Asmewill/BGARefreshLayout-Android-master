@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/rl_footView"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/Cf2f2f5"
+    android:orientation="vertical" >
+    <RelativeLayout
+        android:id="@+id/xlistview_footer_content"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <ImageView
+            android:id="@+id/img_load_t1"
+            android:layout_width="28dip"
+            android:layout_height="28dip"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="16dip"
+            android:background="@mipmap/loading_1_03"
+            android:visibility="visible"/>
+
+        <ProgressBar
+            android:id="@+id/img_load_t2"
+            style="@style/MyDialogStyle"
+            android:layout_width="38dip"
+            android:layout_height="38dip"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="11dip"
+            android:indeterminateDrawable="@drawable/progress_large_white"
+            android:indeterminateDuration="1200"
+            android:visibility="visible"/>
+    </RelativeLayout>
+    <TextView
+        android:id="@+id/tv_load"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:gravity="center"
+        android:paddingTop="8dp"
+        android:text="拼命加载中..."
+        android:visibility="visible"
+        android:paddingBottom="8dp"/>
+</LinearLayout>
