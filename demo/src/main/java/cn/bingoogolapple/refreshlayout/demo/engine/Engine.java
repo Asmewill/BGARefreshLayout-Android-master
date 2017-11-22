@@ -36,4 +36,8 @@ public interface Engine {
 
     @GET("banner/api/5item.json")
     Call<BannerModel> getBannerModel();
+    
+    @FormUrlEncoded
+    @POST("refreshlayout/api/defaultdata6.json")
+    Call<List<RefreshModel>> loadInitDatas(@Field("format") String format);
 }
